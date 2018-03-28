@@ -1,0 +1,40 @@
+{
+  "formatted_address" : "718 17 Ave SW, Calgary, AB T2S 0B7",
+  "formatted_phone_number" : "(403) 474-4414",
+  "name" : "MARKET",
+  "opening_hours" : {
+    "weekday_text" : [
+      "Monday: 11:30 AM – 11:00 PM",
+      "Tuesday: 11:30 AM – 11:00 PM",
+      "Wednesday: 11:30 AM – 11:00 PM",
+      "Thursday: 11:30 AM – 12:00 AM",
+      "Friday: 11:30 AM – 12:00 AM",
+      "Saturday: 11:30 AM – 12:00 AM",
+      "Sunday: 11:30 AM – 11:00 PM"
+    ]
+  },
+  "photos" : [
+    {
+      "photo_id" : 1,
+      "photo_url" : "https://scontent-sea1-1.xx.fbcdn.net/v/t31.0-8/s720x720/21015723_164134557481261_3209686888635673395_o.jpg?_nc_cat=0&oh=6eefeb09bf68fd3edc509eb0f4cd62ca&oe=5B4A1471"
+    },
+    {
+      "photo_id" : 2,
+      "photo_url" : "https://scontent-sea1-1.xx.fbcdn.net/v/t31.0-8/26233529_202402270321156_88101343010939323_o.jpg?_nc_cat=0&oh=593492b98f311b25efd8bb398654ce3d&oe=5B3AE45C"
+    },
+    {
+      "photo_id" : 3,
+      "photo_url" : "https://scontent-sea1-1.xx.fbcdn.net/v/t31.0-8/s720x720/21015723_164134557481261_3209686888635673395_o.jpg?_nc_cat=0&oh=6eefeb09bf68fd3edc509eb0f4cd62ca&oe=5B4A1471"
+    },
+    {
+      "photo_id" : 4,
+      "photo_url" : "https://scontent-sea1-1.xx.fbcdn.net/v/t31.0-8/26233529_202402270321156_88101343010939323_o.jpg?_nc_cat=0&oh=593492b98f311b25efd8bb398654ce3d&oe=5B3AE45C"
+    },
+    {
+      "photo_id" : 5,
+      "photo_url" : "https://scontent-sea1-1.xx.fbcdn.net/v/t31.0-8/s720x720/21015723_164134557481261_3209686888635673395_o.jpg?_nc_cat=0&oh=6eefeb09bf68fd3edc509eb0f4cd62ca&oe=5B4A1471"
+    }
+  ],
+  "rating" : 4.1,
+  "website" : "http://marketcalgary.ca/"
+}

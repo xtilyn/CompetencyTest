@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="my_btn">PRESS ME</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="photo">photo</string>
+    <string name="hours_of_operation">Hours of Operation</string>
+    <string name="visit_us_on">Visit us on</string>
+
+
+</resources>
