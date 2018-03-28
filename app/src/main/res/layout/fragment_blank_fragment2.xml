@@ -118,22 +118,16 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/tv_phone"/>
 
-        <android.support.v4.widget.NestedScrollView
-            android:id="@+id/nest_scrollview"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="vertical"
-            android:fillViewport="true"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@id/my_view">
 
             <LinearLayout
                 android:id="@+id/linearLayout"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/white"
-                android:orientation="vertical">
+                android:orientation="vertical"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/my_view">
 
                 <android.support.v7.widget.RecyclerView
                     android:id="@+id/rec_view"
@@ -197,7 +191,6 @@
             </LinearLayout>
 
 
-        </android.support.v4.widget.NestedScrollView>
 
 
 
